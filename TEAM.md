@@ -1,7 +1,10 @@
 ## Founder
 
-Name: [name]
-Role: [role]
+Name: Travis Eaton
+Role: CEO
+
+Name: Austin Larsen
+Role: CTO
 
 ## Team Member 1
 
