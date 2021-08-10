@@ -1,6 +1,6 @@
 Primary -
 CPU: AMD Ryzen 9 3950X
-Mem: DDR4 4000 32GB
+Mem: DDR4 4000 64GB
 Storage: 1TB 530/480 MB/s SSD
 OS: Ubuntu 20.04.2.0 LTS (Focal Fossa)
 Region: Philadelphia
