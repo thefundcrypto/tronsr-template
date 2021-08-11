@@ -1,7 +1,7 @@
 ## Founders
 
-Name: Travis Eaton
-Role: CEO
+Name: Tivars Coin
+Role: COO
 
-Name: Austin Larsen
+Name: Austin "TheFund"
 Role: CTO
